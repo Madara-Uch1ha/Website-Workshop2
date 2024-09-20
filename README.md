@@ -20,7 +20,7 @@ Build your own website with our one-day workshop on understanding HTML and CSS. 
  - Check if Git, Docker, and Docker Compose are installed in on the system. Open the terminal and run the following command
    ```
    mis@mispl-lap-31:~$ git --version
-   git version 2.25.1
+   git version 2.25.1P
 
    mis@mispl-lap-31:~$ docker --version
    Docker version 20.10.17, build 100c701
